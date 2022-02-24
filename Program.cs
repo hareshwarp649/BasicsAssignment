@@ -15,8 +15,8 @@ namespace NUnit
 
             // k D = new DayOFWeek();
             //  SetWeek(D, M, Y);
-             TempConve.ConvertTemp();
-            // MonthPay.PayMonth();
+            // TempConve.ConvertTemp();
+             MonthPay.PayMonth();
             //SquareRoot.RootSquare();
            // ToBinnary.BinnaryTo();
         }
