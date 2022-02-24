@@ -10,12 +10,12 @@ namespace NUnit
     {
         static void Main(string[] args)
         {
-              MachineWedd.WeddMachine();
+            //  MachineWedd.WeddMachine();
 
 
             // k D = new DayOFWeek();
             //  SetWeek(D, M, Y);
-            // TempConve.ConvertTemp();
+             TempConve.ConvertTemp();
             // MonthPay.PayMonth();
             //SquareRoot.RootSquare();
            // ToBinnary.BinnaryTo();
